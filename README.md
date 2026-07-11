@@ -2,7 +2,7 @@
 
 A fast, searchable blog built with **Next.js (App Router)**, server-side rendering, dynamic routing, and **Tailwind CSS** — backed by a [mockapi.io](https://mockapi.io) REST API and cached client-side with **React Query**.
 
-**[Live Demo →]()** &nbsp;·&nbsp; _(replace with your actual Vercel URL after deploying)_
+**[Live Demo →](https://blog-app-v2-nine.vercel.app/)** &nbsp;·&nbsp; _(replace with your actual Vercel URL after deploying)_
 
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?logo=next.js)
 ![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=black)
@@ -16,9 +16,7 @@ A fast, searchable blog built with **Next.js (App Router)**, server-side renderi
 
 | Homepage | Post page |
 |---|---|
-| _add screenshot_ | _add screenshot_ |
-
-> Replace the placeholders above with real screenshots — drag images into this section on GitHub and it'll auto-generate the markdown for you.
+| <img src="IMG-20260711-WA0001.jpg" width="400" alt="Homepage" /> | <img src="IMG-20260711-WA0002.jpg" width="400" alt="Post page" /> |
 
 ---
 
