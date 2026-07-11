@@ -16,7 +16,7 @@ A fast, searchable blog built with **Next.js (App Router)**, server-side renderi
 
 | Homepage | Post page |
 |---|---|
-| <img src="IMG-20260711-WA0001.jpg" width="400" alt="Homepage" /> | <img src="IMG-20260711-WA0002.jpg" width="400" alt="Post page" /> |
+| <img src="IMG-20260711-WA0004.jpg" width="400" alt="Homepage" /> | <img src="IMG-20260711-WA0006.jpg" width="400" alt="Post page" /> |
 
 ---
 
